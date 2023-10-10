@@ -9,6 +9,8 @@ It features an interactive contact form, facilitating seamless communication for
 &nbsp;
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
+
+&nbsp;
 ![emma](https://github.com/kev-er/stronger-together-mentoring/assets/81853888/e2d8be36-88b8-4f0d-9442-e585213da045)
 
 &nbsp;
