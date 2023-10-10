@@ -1,33 +1,23 @@
 # My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+a sleek and minimalistic website designed for a professional
+mentor, targeting prospective clients. The website is fully responsive, ensuring an optimal user experience across devices. 
+It features an interactive contact form, facilitating seamless communication for potential clients interested in mentoring services.
+
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-![alt tag](http://placecorgi.com/1200/650)
+![emma](https://github.com/kev-er/stronger-together-mentoring/assets/81853888/e2d8be36-88b8-4f0d-9442-e585213da045)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript,
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Crafting a polished website for a professional mentor expanded my skills in HTML, CSS, and JavaScript. The sleek and minimalistic design prioritized user experience across devices, emphasizing responsiveness. The integration of an interactive contact form underscored the importance of JavaScript in facilitating seamless communication. Through this project, I gained a deeper understanding of the tech stack, realizing its pivotal role in creating an effective and engaging online platform for connecting prospective clients with mentoring services.
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Compressed pictures for better preformance. 
 
-## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
 
 
 
