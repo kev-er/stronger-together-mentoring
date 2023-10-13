@@ -3,12 +3,12 @@
 &nbsp;
 
 a sleek and minimalistic website designed for a professional
-mentor, targeting prospective clients. The website is fully responsive, ensuring an optimal user experience across devices. 
+mentor, targeting prospective clients. The website is fully responsive, ensuring an optimal user experience across devices.
 It features an interactive contact form, facilitating seamless communication for potential clients interested in mentoring services.
 
 &nbsp;
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://gilded-raindrop-d16b8f.netlify.app
 
 &nbsp;
 ![emma](https://github.com/kev-er/stronger-together-mentoring/assets/81853888/e2d8be36-88b8-4f0d-9442-e585213da045)
@@ -27,9 +27,4 @@ Through this project, I gained a deeper understanding of the tech stack, realizi
 
 ## Optimizations
 
-Compressed pictures for better preformance. 
-
-
-
-
-
+Compressed pictures for better preformance.
